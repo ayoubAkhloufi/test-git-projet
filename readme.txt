@@ -1,1 +1,1 @@
-Hello Git ! Ceci est mon premier test.
+Ajout d'une nouvelle fonctionnalité dans la branche feature.
